@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'sphinx-easy-help'
+copyright = '2022, hthhgd'
+author = 'hthhgd'
 
 release = '0.1'
 version = '0.1.0'
